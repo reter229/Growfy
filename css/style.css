@@ -500,6 +500,10 @@ textarea.input {
   margin-bottom: 1rem;
 }
 
+.spollers__link a {
+  text-decoration: none;
+}
+
 .email-list__title {
   font-weight: 500;
   font-size: 1.25rem;
